@@ -1,5 +1,6 @@
 # Hi there, I'm Marcus Loo 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcusLEK&label=Views&color=blue&style=plastic" alt="MarcusLEK" /> </p>
 
 <a href="https://www.linkedin.com/in/marcus-loo/">
   <img align="left" alt="Marcus' Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -52,8 +53,8 @@
 <br/>
 
 <a href="https://github.com/MarcusLEK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusLEK&theme=dark&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusLEK&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/MarcusLEK">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcusLEK&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=MarcusLEK&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
