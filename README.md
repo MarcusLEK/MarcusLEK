@@ -21,8 +21,8 @@
 - 💬 Ask me about Flutter or any tech related stuff.
 - ⚡ Fun fact: I love to play guitar and learn new tech.
 
-[![Linkedin: Marcus Loo](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/marcus-loo/)
-[![GitHub MarcusLEK](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/MarcusLEK)
+[![Linkedin: Marcus Loo](https://img.shields.io/badge/-MarcusLoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-loo/)](https://www.linkedin.com/in/marcus-loo/)
+[![GitHub MarcusLEK](https://img.shields.io/github/followers/MarcusLEK?label=follow&style=social)](https://github.com/MarcusLEK)
 
 ### Languages and Tools:
 #### Languages
