@@ -48,7 +48,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="HTML5" width="26px" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />
 
-<br />
+<br/>
+<br/>
 
 <a href="https://github.com/MarcusLEK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusLEK&theme=dark&hide_langs_below=1" />
