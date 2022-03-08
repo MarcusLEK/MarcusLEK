@@ -17,8 +17,8 @@
 
 ## I'm a Software Developer/Engineer!
 - 🔭 I’m currently working on nothing at the moment.
-- 🌱 I’m currently learning Laravel(PHP).
-- 🥅 2020 Goals: Obtain TensorFlow Certificate
+- 🌱 I’m currently learning React.
+- 🥅 2022 Goals: Complete my React Course
 - 💬 Ask me about Flutter or any tech related stuff.
 - ⚡ Fun fact: I love to play guitar and learn new tech.
 
